@@ -1,0 +1,15 @@
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.csproj.AssemblyReference.cache
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.AssemblyInfoInputs.cache
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.AssemblyInfo.cs
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.csproj.CoreCompileInputs.cache
+C:\GeekBrains\DZC#4\task_29\bin\Debug\net6.0\task_29.exe
+C:\GeekBrains\DZC#4\task_29\bin\Debug\net6.0\task_29.deps.json
+C:\GeekBrains\DZC#4\task_29\bin\Debug\net6.0\task_29.runtimeconfig.json
+C:\GeekBrains\DZC#4\task_29\bin\Debug\net6.0\task_29.dll
+C:\GeekBrains\DZC#4\task_29\bin\Debug\net6.0\task_29.pdb
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.dll
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\refint\task_29.dll
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.pdb
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\task_29.genruntimeconfig.cache
+C:\GeekBrains\DZC#4\task_29\obj\Debug\net6.0\ref\task_29.dll
